@@ -1,4 +1,5 @@
 An UI/UX Assesment 
+---------------------------------
 1.Home Screen: The landing page features a search bar where users can input their desired doctor's specialty and location. The design is clean, with an emphasis on simplicity and ease of use.
 2.Search Results: Once a user inputs their search criteria, a list of available doctors is presented, complete with profiles, specialties, and locations. Each doctor’s profile includes their ratings and reviews from previous patients.
 3.Doctor Profile: Selecting a doctor from the list opens their detailed profile, which includes professional background, patient reviews, and available time slots for appointments.
